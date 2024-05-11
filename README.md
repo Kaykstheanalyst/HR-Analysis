@@ -9,7 +9,7 @@
 9. [Data Visualization Dashboard](##Data-Visualization-Dashboard)
 
 ## Overview
-In this project I analyzed an HR dataset to uncover insight about the performance of employees in TM plc across the different department in the firm alongside other parameters including gender, age, region and education as a performance parameter for measuring their performance respectively. Several insights were uncovered including the performance of the female gender which was higher than that of the male employees who records a larger number in population.
+In this project I analyzed an HR dataset to uncover insight about the performance of employees in TM plc across the different department in the firm alongside other parameters including gender, age, region and education as a parameter for measuring their performance. One key finding was that female employees exhibited higher performance levels compared to their male counterparts.
 
 ## Tool
 - Microsoft Excel
